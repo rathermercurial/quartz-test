@@ -1,6 +1,5 @@
 ---
-{"publish":true,"path":"test-note.md","permalink":"/test-note/","title":"Test Note"}
+{"title":"Test Note", "publish":true}
 ---
-
 
 This is a test..
