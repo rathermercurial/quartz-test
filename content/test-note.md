@@ -1,6 +1,6 @@
 ---
-{"title":"Test Note","author":null,"tags":null,"publish":true,"path":"test-note.md","permalink":"/test-note/","PassFrontmatter":true}
+{"publish":true,"path":"test-note.md","permalink":"/test-note/","title":"Test Note"}
 ---
 
 
-This is a test.
+This is a test
